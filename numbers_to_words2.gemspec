@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["geocodinglife@gmail.com"]
 
   spec.summary       = %q{ A gem for combert numbers to words}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/geocodinglife/numbers_to_words2"
   spec.license       = "MIT"
 
   
